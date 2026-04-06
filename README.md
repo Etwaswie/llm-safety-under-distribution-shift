@@ -1,6 +1,6 @@
 # LLM Safety Under Distribution Shift
 
-Coursework #3 | Course: Security of LLM and Agent Systems
+Coursework #3
 
 ## Description
 
